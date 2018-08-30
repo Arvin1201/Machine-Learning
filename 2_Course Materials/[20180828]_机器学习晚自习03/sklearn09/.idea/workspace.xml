@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c72a867f-3f2d-4c8f-9475-a1e940265196" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="homework.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0828/homework.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="287" column="19" lean-forward="false" selection-start-line="287" selection-start-column="19" selection-end-line="287" selection-end-column="19" />
+              <folding>
+                <element signature="e#23#64#1" expanded="false" />
+                <element signature="e#448#458#0" expanded="false" />
+                <element signature="e#448#458#0" expanded="false" />
+                <element signature="e#892#1898#0" expanded="false" />
+                <element signature="e#892#1031#1" expanded="false" />
+                <element signature="e#1061#1101#0" expanded="false" />
+                <element signature="e#1131#1168#0" expanded="false" />
+                <element signature="e#1467#1775#0" expanded="false" />
+                <element signature="e#1997#3274#0" expanded="false" />
+                <element signature="e#1997#2168#1" expanded="false" />
+                <element signature="e#2208#2305#0" expanded="false" />
+                <element signature="e#2345#2428#0" expanded="false" />
+                <element signature="e#2823#3151#0" expanded="false" />
+                <element signature="e#3377#5622#0" expanded="false" />
+                <element signature="e#3377#3530#1" expanded="false" />
+                <element signature="e#3722#4313#0" expanded="false" />
+                <element signature="e#4357#4764#0" expanded="false" />
+                <element signature="e#5163#5499#0" expanded="false" />
+                <element signature="e#5741#8124#0" expanded="false" />
+                <element signature="e#5741#5887#1" expanded="false" />
+                <element signature="e#6079#6311#0" expanded="false" />
+                <element signature="e#6144#6289#0" expanded="false" />
+                <element signature="e#6358#6577#0" expanded="false" />
+                <element signature="e#6429#6555#0" expanded="false" />
+                <element signature="e#7076#7549#0" expanded="false" />
+                <element signature="e#7474#7549#0" expanded="false" />
+                <element signature="e#7772#8124#0" expanded="false" />
+                <element signature="e#8247#10990#0" expanded="false" />
+                <element signature="e#8247#8393#1" expanded="false" />
+                <element signature="e#8569#8594#0" expanded="false" />
+                <element signature="e#8641#8866#0" expanded="false" />
+                <element signature="e#8706#8844#0" expanded="false" />
+                <element signature="e#8897#8913#0" expanded="false" />
+                <element signature="e#9435#10367#0" expanded="false" />
+                <element signature="e#9435#9527#1" expanded="false" />
+                <element signature="e#9665#10332#0" expanded="false" />
+                <element signature="e#9665#9682#0" expanded="false" />
+                <element signature="e#10163#10242#0" expanded="false" />
+                <element signature="e#10618#10990#0" expanded="false" />
+                <element signature="e#10993#11017#0" expanded="false" />
+                <element signature="e#11318#11327#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>viridis</find>
+      <find>海</find>
+      <find>的</find>
+      <find>'backend'</find>
+      <find>1000025</find>
+      <find>5164394351643943</find>
+      <find>51643943</find>
+      <find>f_change</find>
+      <find>31406743</find>
+      <find>2181104150928</find>
+      <find>特征数目</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/0818/测试.py" />
+        <option value="$PROJECT_DIR$/sss" />
+        <option value="$PROJECT_DIR$/ss" />
+        <option value="$PROJECT_DIR$/0819/机器学习编程的流程.py" />
+        <option value="$PROJECT_DIR$/datas/household_power_consumption_201.txt" />
+        <option value="$PROJECT_DIR$/0819/加载使用构建好的模型对数据做一个预测.py" />
+        <option value="$PROJECT_DIR$/0819/使用最小二乘的解析式的方式实现模型的训练.py" />
+        <option value="$PROJECT_DIR$/def.py" />
+        <option value="$PROJECT_DIR$/abc.py" />
+        <option value="$PROJECT_DIR$/0819/def.py" />
+        <option value="$PROJECT_DIR$/test/abc.py" />
+        <option value="$PROJECT_DIR$/test/def.py" />
+        <option value="$PROJECT_DIR$/test/test2.py" />
+        <option value="$PROJECT_DIR$/0819/使用sklearn实现模型的训练.py" />
+        <option value="$PROJECT_DIR$/test/空气质量检测练习.py" />
+        <option value="$PROJECT_DIR$/test/AirQualityUCI.txt" />
+        <option value="$PROJECT_DIR$/test/加载使用构建好的模型对数据做一个预测.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/test/house_grade_function(1).py" />
+        <option value="$PROJECT_DIR$/0825/使用多项式扩展做线性回归案例.py" />
+        <option value="$PROJECT_DIR$/0825/使用管道流的方式做线性回归案例.py" />
+        <option value="$PROJECT_DIR$/0825/使用Ridge实现线性回归案例.py" />
+        <option value="$PROJECT_DIR$/0825/使用RidgeCV实现线性回归案例.py" />
+        <option value="$PROJECT_DIR$/0823/homework.py" />
+        <option value="$PROJECT_DIR$/0825/病理数据的Logistic回归的代码实现.py" />
+        <option value="$PROJECT_DIR$/0826/使用KNN实现鸢尾花数据分类.py" />
+        <option value="$PROJECT_DIR$/0826/网格交叉验证保存的模型使用.py" />
+        <option value="$PROJECT_DIR$/0826/网格交叉验证选择模型参数.py" />
+        <option value="$PROJECT_DIR$/0826/决策树构建过程理解案例.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/house_grade_function(1).py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/test/BostonRent_UseLinearRegression.py" />
+        <option value="$PROJECT_DIR$/test/housing.py" />
+        <option value="$PROJECT_DIR$/0828/test.py" />
+        <option value="$PROJECT_DIR$/0826/使用决策树实现鸢尾花数据分类.py" />
+        <option value="$PROJECT_DIR$/0828/homework.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-196" />
+    <option name="y" value="166" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sklearn09" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sklearn09" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\python\sklearn09\test" />
+      <recent name="C:\workspace\python\sklearn09\0819" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\python\sklearn09\0828" />
+      <recent name="C:\workspace\python\sklearn09\test" />
+      <recent name="C:\workspace\python\sklearn09" />
+      <recent name="C:\workspace\python\sklearn09\0826" />
+      <recent name="C:\workspace\python\sklearn09\datas" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.homework">
+    <configuration name="使用决策树实现鸢尾花数据分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0826" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0826/使用决策树实现鸢尾花数据分类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="BostonRent_UseDecisionTreeRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/BostonRent_UseDecisionTreeRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="BostonRent_UseLinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/BostonRent_UseLinearRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="使用多项式扩展做线性回归案例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0825" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0825/使用多项式扩展做线性回归案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="加载使用构建好的模型对数据做一个预测" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/加载使用构建好的模型对数据做一个预测.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="加载使用构建好的模型对数据做一个预测" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/加载使用构建好的模型对数据做一个预测.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0828" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0828/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="house_grade_function(1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/house_grade_function(1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0828" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sklearn09" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0828/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.BostonRent_UseDecisionTreeRegression" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BostonRent_UseLinearRegression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.homework" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.使用决策树实现鸢尾花数据分类" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.homework" />
+        <item index="1" class="java.lang.String" itemvalue="Python.使用决策树实现鸢尾花数据分类" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BostonRent_UseLinearRegression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.BostonRent_UseDecisionTreeRegression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c72a867f-3f2d-4c8f-9475-a1e940265196" name="Default" comment="" />
+      <created>1534580389385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534580389385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41248608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40691194" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://C:/Anaconda3/Lib/site-packages/matplotlib/tight_layout.py</url>
+          <line>293</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/test.py" />
+    <entry file="file://$PROJECT_DIR$/test/house_grade_function(1).py" />
+    <entry file="file://$PROJECT_DIR$/0825/使用多项式扩展做线性回归案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="151" column="31" lean-forward="false" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4960">
+          <caret line="695" column="6" lean-forward="false" selection-start-line="695" selection-start-column="6" selection-end-line="695" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/multioutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="173" column="35" lean-forward="false" selection-start-line="173" selection-start-column="24" selection-end-line="173" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/metrics/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="175" column="22" lean-forward="false" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0825/使用管道流的方式做线性回归案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4081">
+          <caret line="86" column="9" lean-forward="false" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0825/使用Ridge实现线性回归案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="71" column="5" lean-forward="false" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/linear_model/ridge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373">
+          <caret line="1104" column="6" lean-forward="false" selection-start-line="1104" selection-start-column="6" selection-end-line="1104" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0825/使用RidgeCV实现线性回归案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="66" column="22" lean-forward="false" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0823/homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="191" column="7" lean-forward="true" selection-start-line="191" selection-start-column="7" selection-end-line="191" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas/breast-cancer-wisconsin.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="698" column="6" lean-forward="false" selection-start-line="698" selection-start-column="0" selection-end-line="698" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="1119" column="64" lean-forward="false" selection-start-line="1119" selection-start-column="56" selection-end-line="1119" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0819/机器学习编程的流程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-862">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0819/使用最小二乘的解析式的方式实现模型的训练.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0819/使用sklearn实现模型的训练.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="116" column="11" lean-forward="false" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0825/病理数据的Logistic回归的代码实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/neighbors/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="774" column="0" lean-forward="false" selection-start-line="774" selection-start-column="0" selection-end-line="774" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/model_selection/_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="714" column="38" lean-forward="false" selection-start-line="714" selection-start-column="28" selection-end-line="714" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/neighbors/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/externals/joblib/numpy_pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="528" column="17" lean-forward="false" selection-start-line="528" selection-start-column="9" selection-end-line="528" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1538" column="13" lean-forward="false" selection-start-line="1538" selection-start-column="10" selection-end-line="1538" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0826/model/y_label_value.pkl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0826/网格交叉验证保存的模型使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="39" column="3" lean-forward="false" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas/iris.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="71" column="31" lean-forward="false" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="671" column="33" lean-forward="true" selection-start-line="671" selection-start-column="17" selection-end-line="671" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0826/使用KNN实现鸢尾花数据分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="94" column="43" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0826/决策树构建过程理解案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-815">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/matplotlib/backends/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house_grade_function(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2968">
+          <caret line="80" column="24" lean-forward="false" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
+          <folding>
+            <element signature="e#303#361#1" expanded="false" />
+            <element signature="e#387#502#1" expanded="false" />
+            <element signature="e#753#819#1" expanded="false" />
+            <element signature="e#1645#1725#0" expanded="false" />
+            <element signature="e#1731#1764#1" expanded="false" />
+            <element signature="e#1800#1880#0" expanded="false" />
+            <element signature="e#2435#2551#0" expanded="false" />
+            <element signature="e#2613#2935#0" expanded="false" />
+            <element signature="e#2676#2935#0" expanded="false" />
+            <element signature="e#2778#2853#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="1875" column="60" lean-forward="false" selection-start-line="1875" selection-start-column="26" selection-end-line="1875" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="473" column="8" lean-forward="false" selection-start-line="473" selection-start-column="8" selection-end-line="473" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/feature_selection/from_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="184" column="32" lean-forward="false" selection-start-line="184" selection-start-column="23" selection-end-line="184" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="483" column="0" lean-forward="false" selection-start-line="483" selection-start-column="0" selection-end-line="483" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/ensemble/bagging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="902" column="8" lean-forward="false" selection-start-line="902" selection-start-column="8" selection-end-line="902" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/ensemble/weight_boosting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="911" column="8" lean-forward="false" selection-start-line="911" selection-start-column="8" selection-end-line="911" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="525" column="0" lean-forward="false" selection-start-line="525" selection-start-column="0" selection-end-line="525" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BostonRent_UseLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="76" column="19" lean-forward="false" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BostonRent_UseDecisionTreeRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="34" />
+          <folding>
+            <element signature="e#589#1020#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/housing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#58#76#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/data/boston_housing.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="496" column="33" lean-forward="false" selection-start-line="496" selection-start-column="33" selection-end-line="496" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/preprocessing/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1253" column="22" lean-forward="false" selection-start-line="1253" selection-start-column="21" selection-end-line="1253" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1258#1552#0" expanded="false" />
+            <element signature="e#1581#1820#0" expanded="false" />
+            <element signature="e#1875#2360#0" expanded="false" />
+            <element signature="e#1875#2011#1" expanded="false" />
+            <element signature="e#2110#2169#0" expanded="false" />
+            <element signature="e#2218#2360#0" expanded="false" />
+            <element signature="e#2239#2305#0" expanded="false" />
+            <element signature="e#2431#6929#0" expanded="false" />
+            <element signature="e#2431#4102#0" expanded="false" />
+            <element signature="e#4330#4850#0" expanded="false" />
+            <element signature="e#4356#4520#0" expanded="false" />
+            <element signature="e#4390#4519#0" expanded="false" />
+            <element signature="e#4555#4666#0" expanded="false" />
+            <element signature="e#4572#4658#0" expanded="false" />
+            <element signature="e#4700#4850#0" expanded="false" />
+            <element signature="e#4869#6916#0" expanded="false" />
+            <element signature="e#5012#5073#0" expanded="false" />
+            <element signature="e#5207#5967#0" expanded="false" />
+            <element signature="e#5268#5327#0" expanded="false" />
+            <element signature="e#5629#5967#0" expanded="false" />
+            <element signature="e#5643#5937#0" expanded="false" />
+            <element signature="e#6001#6916#0" expanded="false" />
+            <element signature="e#6120#6916#0" expanded="false" />
+            <element signature="e#6161#6224#0" expanded="false" />
+            <element signature="e#6573#6916#0" expanded="false" />
+            <element signature="e#6587#6882#0" expanded="false" />
+            <element signature="e#6989#13313#0" expanded="false" />
+            <element signature="e#6989#8809#1" expanded="false" />
+            <element signature="e#8876#8935#0" expanded="false" />
+            <element signature="e#8967#9061#0" expanded="false" />
+            <element signature="e#9097#9120#0" expanded="false" />
+            <element signature="e#9152#9242#0" expanded="false" />
+            <element signature="e#9276#9297#0" expanded="false" />
+            <element signature="e#9329#9779#0" expanded="false" />
+            <element signature="e#9329#9454#1" expanded="false" />
+            <element signature="e#9464#9532#0" expanded="false" />
+            <element signature="e#9606#9779#0" expanded="false" />
+            <element signature="e#9819#10228#0" expanded="false" />
+            <element signature="e#9819#10121#1" expanded="false" />
+            <element signature="e#10276#12242#0" expanded="false" />
+            <element signature="e#10276#10833#1" expanded="false" />
+            <element signature="e#10938#11081#0" expanded="false" />
+            <element signature="e#10955#11059#0" expanded="false" />
+            <element signature="e#11126#11264#0" expanded="false" />
+            <element signature="e#11142#11263#0" expanded="false" />
+            <element signature="e#11736#11890#0" expanded="false" />
+            <element signature="e#12280#12763#0" expanded="false" />
+            <element signature="e#12280#12486#1" expanded="false" />
+            <element signature="e#12809#13313#0" expanded="false" />
+            <element signature="e#12809#13036#1" expanded="false" />
+            <element signature="e#13382#15568#0" expanded="false" />
+            <element signature="e#13382#14713#0" expanded="false" />
+            <element signature="e#14726#14793#0" expanded="false" />
+            <element signature="e#15630#25141#0" expanded="false" />
+            <element signature="e#15630#18590#0" expanded="false" />
+            <element signature="e#18674#18758#0" expanded="false" />
+            <element signature="e#18790#18877#0" expanded="false" />
+            <element signature="e#18907#18925#0" expanded="false" />
+            <element signature="e#18957#19339#0" expanded="false" />
+            <element signature="e#18957#19082#1" expanded="false" />
+            <element signature="e#19092#19160#0" expanded="false" />
+            <element signature="e#19234#19339#0" expanded="false" />
+            <element signature="e#19379#19850#0" expanded="false" />
+            <element signature="e#19379#19743#1" expanded="false" />
+            <element signature="e#19898#22886#0" expanded="false" />
+            <element signature="e#19898#20759#1" expanded="false" />
+            <element signature="e#21054#21120#0" expanded="false" />
+            <element signature="e#21307#22238#0" expanded="false" />
+            <element signature="e#21342#21515#0" expanded="false" />
+            <element signature="e#21380#21514#0" expanded="false" />
+            <element signature="e#21562#22153#0" expanded="false" />
+            <element signature="e#21652#21759#0" expanded="false" />
+            <element signature="e#21832#22153#0" expanded="false" />
+            <element signature="e#22188#22238#0" expanded="false" />
+            <element signature="e#22265#22724#0" expanded="false" />
+            <element signature="e#22347#22531#0" expanded="false" />
+            <element signature="e#22943#24033#0" expanded="false" />
+            <element signature="e#22943#23159#1" expanded="false" />
+            <element signature="e#23571#23876#0" expanded="false" />
+            <element signature="e#23606#23779#0" expanded="false" />
+            <element signature="e#23644#23778#0" expanded="false" />
+            <element signature="e#23903#24016#0" expanded="false" />
+            <element signature="e#24090#25141#0" expanded="false" />
+            <element signature="e#24090#24308#1" expanded="false" />
+            <element signature="e#24448#24904#0" expanded="false" />
+            <element signature="e#24483#24657#0" expanded="false" />
+            <element signature="e#24521#24656#0" expanded="false" />
+            <element signature="e#24719#24761#0" expanded="false" />
+            <element signature="e#24931#25124#0" expanded="false" />
+            <element signature="e#25201#29980#0" expanded="false" />
+            <element signature="e#25201#26335#1" expanded="false" />
+            <element signature="e#26380#26396#0" expanded="false" />
+            <element signature="e#26428#26787#0" expanded="false" />
+            <element signature="e#26428#26553#1" expanded="false" />
+            <element signature="e#26563#26631#0" expanded="false" />
+            <element signature="e#26705#26787#0" expanded="false" />
+            <element signature="e#26827#27256#0" expanded="false" />
+            <element signature="e#26827#27149#1" expanded="false" />
+            <element signature="e#27304#28689#0" expanded="false" />
+            <element signature="e#27304#27884#1" expanded="false" />
+            <element signature="e#28170#28267#0" expanded="false" />
+            <element signature="e#28491#28582#0" expanded="false" />
+            <element signature="e#28735#29315#0" expanded="false" />
+            <element signature="e#28735#28887#1" expanded="false" />
+            <element signature="e#29361#29980#0" expanded="false" />
+            <element signature="e#29361#29559#1" expanded="false" />
+            <element signature="e#30027#31689#0" expanded="false" />
+            <element signature="e#30027#30853#0" expanded="false" />
+            <element signature="e#30866#30933#0" expanded="false" />
+            <element signature="e#31749#38105#0" expanded="false" />
+            <element signature="e#31749#34511#1" expanded="false" />
+            <element signature="e#34642#34789#0" expanded="false" />
+            <element signature="e#34836#35418#0" expanded="false" />
+            <element signature="e#35184#35401#0" expanded="false" />
+            <element signature="e#35224#35401#0" expanded="false" />
+            <element signature="e#35262#35400#0" expanded="false" />
+            <element signature="e#35458#36512#0" expanded="false" />
+            <element signature="e#35458#35744#1" expanded="false" />
+            <element signature="e#36111#36492#0" expanded="false" />
+            <element signature="e#36209#36315#0" expanded="false" />
+            <element signature="e#36558#37299#0" expanded="false" />
+            <element signature="e#36558#36721#1" expanded="false" />
+            <element signature="e#37051#37131#0" expanded="false" />
+            <element signature="e#37158#37282#0" expanded="false" />
+            <element signature="e#37345#38105#0" expanded="false" />
+            <element signature="e#37345#37533#1" expanded="false" />
+            <element signature="e#37863#37937#0" expanded="false" />
+            <element signature="e#37964#38088#0" expanded="false" />
+            <element signature="e#38238#40371#0" expanded="false" />
+            <element signature="e#38238#40129#1" expanded="false" />
+            <element signature="e#40437#42749#1" expanded="false" />
+            <element signature="e#42835#42945#0" expanded="false" />
+            <element signature="e#43048#43281#0" expanded="false" />
+            <element signature="e#43185#43280#0" expanded="false" />
+            <element signature="e#43328#43695#0" expanded="false" />
+            <element signature="e#43602#43694#0" expanded="false" />
+            <element signature="e#43759#44733#0" expanded="false" />
+            <element signature="e#43759#44158#1" expanded="false" />
+            <element signature="e#44363#44704#0" expanded="false" />
+            <element signature="e#44429#44620#0" expanded="false" />
+            <element signature="e#44445#44619#0" expanded="false" />
+            <element signature="e#44773#44831#1" expanded="false" />
+            <element signature="e#45250#46344#0" expanded="false" />
+            <element signature="e#45250#45657#1" expanded="false" />
+            <element signature="e#46418#48857#0" expanded="false" />
+            <element signature="e#46418#47638#1" expanded="false" />
+            <element signature="e#48132#48455#0" expanded="false" />
+            <element signature="e#48304#48455#0" expanded="false" />
+            <element signature="e#48474#48750#0" expanded="false" />
+            <element signature="e#48915#51234#0" expanded="false" />
+            <element signature="e#48915#50345#1" expanded="false" />
+            <element signature="e#50401#50442#0" expanded="false" />
+            <element signature="e#50482#50709#0" expanded="false" />
+            <element signature="e#50482#50641#1" expanded="false" />
+            <element signature="e#50766#51234#0" expanded="false" />
+            <element signature="e#50766#51068#1" expanded="false" />
+            <element signature="e#51284#52795#0" expanded="false" />
+            <element signature="e#51284#52271#1" expanded="false" />
+            <element signature="e#52371#52659#0" expanded="false" />
+            <element signature="e#52401#52503#0" expanded="false" />
+            <element signature="e#52418#52502#0" expanded="false" />
+            <element signature="e#52678#52782#0" expanded="false" />
+            <element signature="e#52852#55226#0" expanded="false" />
+            <element signature="e#52852#54370#1" expanded="false" />
+            <element signature="e#54430#54481#0" expanded="false" />
+            <element signature="e#54521#54744#0" expanded="false" />
+            <element signature="e#54521#54680#1" expanded="false" />
+            <element signature="e#54801#55226#0" expanded="false" />
+            <element signature="e#54801#55107#1" expanded="false" />
+            <element signature="e#55288#56989#0" expanded="false" />
+            <element signature="e#55288#55709#1" expanded="false" />
+            <element signature="e#55749#56197#0" expanded="false" />
+            <element signature="e#55749#55981#1" expanded="false" />
+            <element signature="e#56254#56929#0" expanded="false" />
+            <element signature="e#56254#56614#1" expanded="false" />
+            <element signature="e#56978#56989#0" expanded="false" />
+            <element signature="e#57033#59236#0" expanded="false" />
+            <element signature="e#57033#57724#1" expanded="false" />
+            <element signature="e#57916#59163#0" expanded="false" />
+            <element signature="e#57957#58464#0" expanded="false" />
+            <element signature="e#58516#59055#0" expanded="false" />
+            <element signature="e#59082#59163#0" expanded="false" />
+            <element signature="e#59309#60726#0" expanded="false" />
+            <element signature="e#59309#59861#1" expanded="false" />
+            <element signature="e#60317#60357#0" expanded="false" />
+            <element signature="e#60401#60453#0" expanded="false" />
+            <element signature="e#60472#60726#0" expanded="false" />
+            <element signature="e#60787#70435#0" expanded="false" />
+            <element signature="e#60787#64730#1" expanded="false" />
+            <element signature="e#64880#65062#0" expanded="false" />
+            <element signature="e#65102#65365#0" expanded="false" />
+            <element signature="e#65102#65315#1" expanded="false" />
+            <element signature="e#65408#67607#0" expanded="false" />
+            <element signature="e#65863#66131#0" expanded="false" />
+            <element signature="e#65926#66032#0" expanded="false" />
+            <element signature="e#66158#66684#0" expanded="false" />
+            <element signature="e#66287#66465#0" expanded="false" />
+            <element signature="e#66303#66422#0" expanded="false" />
+            <element signature="e#66551#66684#0" expanded="false" />
+            <element signature="e#66568#66683#0" expanded="false" />
+            <element signature="e#67366#67553#0" expanded="false" />
+            <element signature="e#67657#68002#0" expanded="false" />
+            <element signature="e#67657#67870#1" expanded="false" />
+            <element signature="e#68041#69952#0" expanded="false" />
+            <element signature="e#68379#68560#0" expanded="false" />
+            <element signature="e#68396#68493#0" expanded="false" />
+            <element signature="e#68570#68641#0" expanded="false" />
+            <element signature="e#68944#69339#0" expanded="false" />
+            <element signature="e#69011#69144#0" expanded="false" />
+            <element signature="e#69028#69121#0" expanded="false" />
+            <element signature="e#69208#69339#0" expanded="false" />
+            <element signature="e#69225#69319#0" expanded="false" />
+            <element signature="e#69990#70435#0" expanded="false" />
+            <element signature="e#69990#70307#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0828/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#75#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0826/网格交叉验证选择模型参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0826/使用决策树实现鸢尾花数据分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="181" column="20" lean-forward="false" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#272#1" expanded="false" />
+            <element signature="e#274#333#0" expanded="false" />
+            <element signature="e#1508#3333#0" expanded="false" />
+            <element signature="e#1508#2333#1" expanded="false" />
+            <element signature="e#2616#2724#0" expanded="false" />
+            <element signature="e#2633#2694#0" expanded="false" />
+            <element signature="e#3078#3145#0" expanded="false" />
+            <element signature="e#3195#3298#0" expanded="false" />
+            <element signature="e#3405#3612#0" expanded="false" />
+            <element signature="e#3691#5851#0" expanded="false" />
+            <element signature="e#3691#5488#1" expanded="false" />
+            <element signature="e#5654#5749#0" expanded="false" />
+            <element signature="e#5929#9140#0" expanded="false" />
+            <element signature="e#5929#7814#1" expanded="false" />
+            <element signature="e#8068#8228#0" expanded="false" />
+            <element signature="e#9205#12164#0" expanded="false" />
+            <element signature="e#9205#11383#1" expanded="false" />
+            <element signature="e#11633#11727#0" expanded="false" />
+            <element signature="e#11792#12017#0" expanded="false" />
+            <element signature="e#12282#15287#0" expanded="false" />
+            <element signature="e#12282#14456#1" expanded="false" />
+            <element signature="e#14622#15185#0" expanded="false" />
+            <element signature="e#14687#15185#0" expanded="false" />
+            <element signature="e#14957#15016#0" expanded="false" />
+            <element signature="e#15353#18149#0" expanded="false" />
+            <element signature="e#15353#17352#1" expanded="false" />
+            <element signature="e#18227#20317#0" expanded="false" />
+            <element signature="e#18227#19940#1" expanded="false" />
+            <element signature="e#20150#20317#0" expanded="false" />
+            <element signature="e#20431#24684#0" expanded="false" />
+            <element signature="e#20431#24514#1" expanded="false" />
+            <element signature="e#24810#29627#0" expanded="false" />
+            <element signature="e#24810#29139#1" expanded="false" />
+            <element signature="e#29712#30998#0" expanded="false" />
+            <element signature="e#29712#29970#1" expanded="false" />
+            <element signature="e#30132#30159#0" expanded="false" />
+            <element signature="e#30689#30760#0" expanded="false" />
+            <element signature="e#31185#31263#0" expanded="false" />
+            <element signature="e#31327#43282#0" expanded="false" />
+            <element signature="e#31327#37409#1" expanded="false" />
+            <element signature="e#37551#37644#0" expanded="false" />
+            <element signature="e#37878#38439#0" expanded="false" />
+            <element signature="e#37913#38278#0" expanded="false" />
+            <element signature="e#37965#38245#0" expanded="false" />
+            <element signature="e#38013#38078#0" expanded="false" />
+            <element signature="e#38121#38245#0" expanded="false" />
+            <element signature="e#38305#38439#0" expanded="false" />
+            <element signature="e#38322#38429#0" expanded="false" />
+            <element signature="e#38485#38754#0" expanded="false" />
+            <element signature="e#38499#38695#0" expanded="false" />
+            <element signature="e#38787#38834#0" expanded="false" />
+            <element signature="e#38853#39019#0" expanded="false" />
+            <element signature="e#38903#39018#0" expanded="false" />
+            <element signature="e#39117#40259#0" expanded="false" />
+            <element signature="e#39170#39217#0" expanded="false" />
+            <element signature="e#39304#39817#0" expanded="false" />
+            <element signature="e#39364#39544#0" expanded="false" />
+            <element signature="e#39381#39467#0" expanded="false" />
+            <element signature="e#39596#39716#0" expanded="false" />
+            <element signature="e#39613#39698#0" expanded="false" />
+            <element signature="e#40300#40499#0" expanded="false" />
+            <element signature="e#40317#40498#0" expanded="false" />
+            <element signature="e#40518#41698#0" expanded="false" />
+            <element signature="e#40985#41089#0" expanded="false" />
+            <element signature="e#41116#41200#0" expanded="false" />
+            <element signature="e#41237#41342#0" expanded="false" />
+            <element signature="e#41379#41484#0" expanded="false" />
+            <element signature="e#41735#41860#0" expanded="false" />
+            <element signature="e#42014#42689#0" expanded="false" />
+            <element signature="e#42014#42071#0" expanded="false" />
+            <element signature="e#42407#42477#0" expanded="false" />
+            <element signature="e#42756#42838#0" expanded="false" />
+            <element signature="e#42972#43233#0" expanded="false" />
+            <element signature="e#43410#47728#0" expanded="false" />
+            <element signature="e#43410#47298#1" expanded="false" />
+            <element signature="e#47850#52060#0" expanded="false" />
+            <element signature="e#47850#51633#1" expanded="false" />
+            <element signature="e#52198#55215#0" expanded="false" />
+            <element signature="e#52198#53725#1" expanded="false" />
+            <element signature="e#54677#54873#0" expanded="false" />
+            <element signature="e#54965#55070#0" expanded="false" />
+            <element signature="e#55320#58807#0" expanded="false" />
+            <element signature="e#55320#57851#1" expanded="false" />
+            <element signature="e#57888#58053#0" expanded="false" />
+            <element signature="e#57902#58007#0" expanded="false" />
+            <element signature="e#58398#58609#0" expanded="false" />
+            <element signature="e#58917#63440#0" expanded="false" />
+            <element signature="e#58917#61153#1" expanded="false" />
+            <element signature="e#61398#61851#0" expanded="false" />
+            <element signature="e#61429#61644#0" expanded="false" />
+            <element signature="e#61446#61620#0" expanded="false" />
+            <element signature="e#61671#61851#0" expanded="false" />
+            <element signature="e#61688#61830#0" expanded="false" />
+            <element signature="e#61949#62070#0" expanded="false" />
+            <element signature="e#62135#62197#0" expanded="false" />
+            <element signature="e#62520#63253#0" expanded="false" />
+            <element signature="e#62551#63028#0" expanded="false" />
+            <element signature="e#62568#62861#0" expanded="false" />
+            <element signature="e#63055#63253#0" expanded="false" />
+            <element signature="e#63072#63232#0" expanded="false" />
+            <element signature="e#63519#68385#0" expanded="false" />
+            <element signature="e#63519#66803#1" expanded="false" />
+            <element signature="e#67045#67705#0" expanded="false" />
+            <element signature="e#67176#67296#0" expanded="false" />
+            <element signature="e#67193#67295#0" expanded="false" />
+            <element signature="e#67725#68216#0" expanded="false" />
+            <element signature="e#67725#67752#0" expanded="false" />
+            <element signature="e#68453#68985#0" expanded="false" />
+            <element signature="e#68636#68753#0" expanded="false" />
+            <element signature="e#68653#68743#0" expanded="false" />
+            <element signature="e#69066#71892#0" expanded="false" />
+            <element signature="e#69066#71518#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0828/homework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="287" column="19" lean-forward="false" selection-start-line="287" selection-start-column="19" selection-end-line="287" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#64#1" expanded="false" />
+            <element signature="e#448#458#0" expanded="false" />
+            <element signature="e#448#458#0" expanded="false" />
+            <element signature="e#892#1898#0" expanded="false" />
+            <element signature="e#892#1031#1" expanded="false" />
+            <element signature="e#1061#1101#0" expanded="false" />
+            <element signature="e#1131#1168#0" expanded="false" />
+            <element signature="e#1467#1775#0" expanded="false" />
+            <element signature="e#1997#3274#0" expanded="false" />
+            <element signature="e#1997#2168#1" expanded="false" />
+            <element signature="e#2208#2305#0" expanded="false" />
+            <element signature="e#2345#2428#0" expanded="false" />
+            <element signature="e#2823#3151#0" expanded="false" />
+            <element signature="e#3377#5622#0" expanded="false" />
+            <element signature="e#3377#3530#1" expanded="false" />
+            <element signature="e#3722#4313#0" expanded="false" />
+            <element signature="e#4357#4764#0" expanded="false" />
+            <element signature="e#5163#5499#0" expanded="false" />
+            <element signature="e#5741#8124#0" expanded="false" />
+            <element signature="e#5741#5887#1" expanded="false" />
+            <element signature="e#6079#6311#0" expanded="false" />
+            <element signature="e#6144#6289#0" expanded="false" />
+            <element signature="e#6358#6577#0" expanded="false" />
+            <element signature="e#6429#6555#0" expanded="false" />
+            <element signature="e#7076#7549#0" expanded="false" />
+            <element signature="e#7474#7549#0" expanded="false" />
+            <element signature="e#7772#8124#0" expanded="false" />
+            <element signature="e#8247#10990#0" expanded="false" />
+            <element signature="e#8247#8393#1" expanded="false" />
+            <element signature="e#8569#8594#0" expanded="false" />
+            <element signature="e#8641#8866#0" expanded="false" />
+            <element signature="e#8706#8844#0" expanded="false" />
+            <element signature="e#8897#8913#0" expanded="false" />
+            <element signature="e#9435#10367#0" expanded="false" />
+            <element signature="e#9435#9527#1" expanded="false" />
+            <element signature="e#9665#10332#0" expanded="false" />
+            <element signature="e#9665#9682#0" expanded="false" />
+            <element signature="e#10163#10242#0" expanded="false" />
+            <element signature="e#10618#10990#0" expanded="false" />
+            <element signature="e#10993#11017#0" expanded="false" />
+            <element signature="e#11318#11327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

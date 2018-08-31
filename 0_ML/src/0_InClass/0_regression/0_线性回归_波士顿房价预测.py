@@ -20,15 +20,13 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split,GridSearchCV
 from sklearn.preprocessing import PolynomialFeatures,StandardScaler
 from sklearn.linear_model import LinearRegression,RidgeCV,ElasticNetCV,LassoCV
-
-from sklearn.linear_model import LinearRegression,RidgeCV,LassoLarsCV,ElasticNetCV,LassoCV
 from sklearn.externals import joblib
 from sklearn.pipeline import Pipeline
 
 # 2、解决中文显示与pycharm中显示问题
 mpl.rcParams['font.sans-serif'] = [u'simHei']
 mpl.rcParams['axes.unicode_minus'] = False
-
+np.set_printoptions(linewidth = 1000,edgeitems = 1000)
 pd.set_option('display.width',1000)
 pd.set_option('display.max_rows',None)
 pd.set_option('display.max_columns',None)
@@ -37,7 +35,6 @@ pd.set_option('display.max_columns',None)
 path = r'../../../datas/0_regression/boston_housing.data'
 
 df = pd.read_csv(path,header=None,)
-
 names = ['CRIM','ZN', 'INDUS','CHAS','NOX','RM','AGE','DIS','RAD','TAX','PTRATIO','B','LSTAT']
 new_df = np.empty((df.size,14))  # 构建一个数组进行存放处理好的数据
 for i,d in enumerate(df.values):
@@ -45,19 +42,22 @@ for i,d in enumerate(df.values):
     new_df[i] = list(d)
 # print(new_df.shape)
 X,Y = np.split(new_df,(13,),axis=1)
-# print('Y->',type(Y))
-# print('Y->',Y.shape)
-# print('X->',type(X))
-# print('X->',X.shape)
+Y = Y.ravel()
+print('Y.type->',type(Y))
+print('Y.shape->',Y.shape)
+print('X.type->',type(X))
+print('X.shape->',X.shape)
 
 # 4、测试机与训练集进行数据划分
 X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.2,random_state=1201)
-
 # 5、数据的标准化处理
 ss = StandardScaler()
 X_train = ss.fit_transform(X_train,Y_train)
 X_test = ss.transform(X_test)
 joblib.dump(ss,r"../../../model/0_regression/波士顿房价预测_ss.model")
+
+# print(Y_train)
+
 # 5、模型构建
 models = [
     Pipeline(
@@ -67,9 +67,9 @@ models = [
         ]
     ),
     Pipeline(
-        [   ## LASSO回归
+        [   ## Lasso回归
             ('Poly',PolynomialFeatures()),
-            ('Linear',LassoCV(alphas=np.logspace(-5,-3,20)))
+            ('Linear',LassoCV(alphas=np.logspace(-3,1,20)))
         ]
     ),
     Pipeline(
@@ -81,7 +81,7 @@ models = [
     ),
     Pipeline(
         [
-            ## ElasticNet回归：l1_ratio->L1-norm站比，alphas为超参数
+            ## ElasticNet回归：l1_ratio -> L1-norm占比，alphas为超参
             ('Poly', PolynomialFeatures()),
             ('Linear', ElasticNetCV(l1_ratio=np.logspace(-3,1,10),alphas=np.logspace(-3,1,10)))
         ]
@@ -95,14 +95,15 @@ paramters = {
     "Linear__fit_intercept":[True,False,True,True]
 }
 
+
+
 # 模型训练求解出最优解
 title = ['Lr','Lasso','Rigde','ElasticNet']
 fig = plt.figure(figsize=(20,10),facecolor='w')
-for i in range(1,2):#len(models)
+for i in range(0,1):#len(models)
     print("{}回归".format(title[i]))
     model = GridSearchCV(models[i],param_grid=paramters,cv=5,n_jobs=1)
     # 进行网格预测
-    print(X_train)
     model.fit(X_train,Y_train)
     Y_Hat = model.predict(X_test)
     print("%s算法:最优参数:" % title[i],model.best_params_)
